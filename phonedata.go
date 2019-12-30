@@ -1,7 +1,7 @@
 package phone
 
 import (
-	c "github.com/coinfinitygroup/phone/countries"
+	c "github.com/huttarichard/phone/countries"
 )
 
 // Data ...
